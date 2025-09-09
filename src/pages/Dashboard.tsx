@@ -172,7 +172,7 @@ const Dashboard: React.FC = () => {
                         onClick={() => handleComplete(r._id)}
                         className="bg-emerald-600 hover:bg-emerald-700 text-white px-3 py-1 rounded-lg text-sm whitespace-nowrap"
                       >
-                        Mark Completed
+                        Send Quotation
                       </button>
                     )}
                   </div>
